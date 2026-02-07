@@ -21,6 +21,8 @@ Styling: CSS / Styled Components (or Tailwind, if you use it)
 
 State Management: React Hooks
 
+<hr/>
+
 Installation & Usage ⚡
 
 Clone the repository:
